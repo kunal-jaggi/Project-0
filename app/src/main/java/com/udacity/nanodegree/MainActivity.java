@@ -15,9 +15,9 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnSportify;
     Button btnDuoScores;
-    Button       btnDuoLib;
+    Button btnDuoLib;
     Button btnBltBgr;
-    Button        btnReader;
+    Button btnReader;
     Button btnCapstone;
 
     @Override
